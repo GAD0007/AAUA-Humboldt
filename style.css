@@ -1534,7 +1534,7 @@ textarea.form-control:focus {
 .input-group input:focus {
     outline: none;
   }
-#Firstname,#surname,#institution,#Title,#inputState,#email,#date-full-paper,#poster-or-oral,#Presenting-author:focus{
+#Firstname,#surname,#institution,#Title,#inputState,#email,#date-full-paper,#poster-or-oral,#Departure,#Arrival,#Presenting-author:focus{
     outline: none;
     box-shadow: none;
     border: 1px solid #D8D8D8
