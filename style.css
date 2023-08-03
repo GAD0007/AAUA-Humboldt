@@ -1584,6 +1584,50 @@ select {
     font-weight: 500;
 
   }
+  thead{
+    font-size: 100%;
+  }
+  .table-text{
+    font-size: 100%;
+    font-weight: 600;
+  }
+  .table-text2{
+    font-size: 100%;
+    font-weight: 600;
+    width: 300px;
+    position: relative;
+    left: 30%;
+    
+  }
+  .absolute-table{
+    position: relative;
+  }
+
+  .table-text-date{
+    font-size: 90%;
+    font-weight: 500;
+  }
+  td,tr{
+    border: 1px solid black !important;
+  
+  }
+  .tag-box{
+    max-width: 300px !important;
+    margin-left: 30%;
+  }
+  .bold-presenter{
+    font-weight: 900;
+  }
+  .green-point{
+    color: rgb(35, 196, 35);
+    font-weight: 600;
+  }
+  .red-point {
+    color: red;
+  }
+  .call-for-abstract-main2{
+    min-width: 200px;
+  }
 
  /*end of contact page*/
  /* end of form on online registration */
@@ -1603,6 +1647,14 @@ select {
 }
  }
 @media screen and (max-width: 981px) {
+    .table-text2{
+        /* font-size: 100%; */
+        font-weight: 600;
+        width: 300px;
+        position: relative;
+        left: 25%;
+        
+      }
     .meeting04{
         min-height: 339.8365478515625px;
         min-width: 220px;
@@ -1723,6 +1775,14 @@ select {
        
         
     }
+    .table-text2{
+        font-size: 100%;
+        font-weight: 600;
+        width: 300px;
+        position: relative;
+        left: 2% !important;
+        
+      }
     .event-main-body{
         margin-top: 100px;
     }
@@ -2101,6 +2161,48 @@ select {
     }
 
 }
+@media screen and (max-width: 920px) {
+    .tag-box{
+        max-width: 250px !important;
+        margin-left: 10% !important;
+      }
+thead{
+    font-size: 70%;
+  }
+  .table-text{
+    font-size: 70%;
+    font-weight: 600;
+  }
+  .table-text2{
+    font-size: 70%;
+    font-weight: 600;
+    width: 300px;
+    position: relative;
+    left: 30%;
+    
+  }
+  .absolute-table{
+    position: relative;
+  }
+
+  .table-text-date{
+    font-size: 60%;
+    font-weight: 500;
+  }
+  td,tr{
+    border: 1px solid black !important;
+  
+  }
+  .bold-presenter{
+    font-weight: 900;
+  }
+  .green-point{
+    color: green;
+  }
+  .red-point {
+    color: red;
+  }
+}
 
 
 
@@ -2378,6 +2480,10 @@ select {
 
 }
 @media screen and (max-width: 1050px) {
+    .tag-box{
+        max-width: 300px !important;
+        margin-left: 23%;
+      }
     .call-for-abstract-main{
         padding-left: 3vw;
         padding-right:3vw ;
@@ -2431,6 +2537,14 @@ select {
         top:-9% ;
         left: 72%;
     }
+    .table-text2{
+        
+        font-weight: 600;
+        width: 300px;
+        position: relative;
+        left: 15%;
+        
+      }
 }
 @media screen and (max-width: 770px) {
 .img-box{
