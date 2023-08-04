@@ -1537,7 +1537,7 @@ textarea.form-control:focus {
 .input-group input:focus {
     outline: none;
   }
-#Firstname,#surname,#institution,#Title,#inputState,#email,#date-full-paper,#poster-or-oral,#Departure,#Arrival,#Presenting-author:focus{
+#Firstname,#surname,#institution,#Title,#inputState,#email,#date-full-paper,#poster-or-oral,#Research-interest,#Departure,#Arrival,#Presenting-author:focus{
     outline: none;
     box-shadow: none;
     border: 1px solid #D8D8D8
@@ -1579,7 +1579,7 @@ select {
   option:hover {
     background-color: yellow;
   }
-  label[for="poster-or-oral"],label[for="Team"],label[for="institution"],label[for="email"],label[for="surname"],label[for="firstname"],label[for="Title"],label[for="Theme"],label[for="Presenting-author"],label[for="Arrival"],label[for="Departure"],label[for="date-full-paper"],label[for="accomodation"],label[for="Abstract"]{
+  label[for="poster-or-oral"],label[for="Team"],label[for="institution"],label[for="Research-interest"],label[for="email"],label[for="surname"],label[for="firstname"],label[for="Title"],label[for="Theme"],label[for="Presenting-author"],label[for="Arrival"],label[for="Departure"],label[for="date-full-paper"],label[for="accomodation"],label[for="Abstract"]{
     color: rgb(17, 17, 17);
     font-weight: 500;
 
