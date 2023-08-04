@@ -1518,7 +1518,7 @@ font-weight: 500;
 }
 /* form on online registration */
 label{
-    color: blue;
+    color: black;
 }
 textarea.form-control {
     resize: none;
@@ -1537,9 +1537,7 @@ textarea.form-control:focus {
 .input-group input:focus {
     outline: none;
   }
-  .force-black{
-    color: black !important;
-  }
+
 #Firstname,#surname,#institution,#Title,#inputState,#email,#date-full-paper,#poster-or-oral,#Research-interest,#Departure,#Arrival,#Presenting-author:focus{
     outline: none;
     box-shadow: none;
