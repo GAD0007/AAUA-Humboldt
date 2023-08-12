@@ -1896,12 +1896,12 @@ select {
 }
 .img-box4{
     position:absolute;
-    top:-3% !important;
+    top:-2% !important;
     left: 72%!important;
 }
 .img-box5{
     position:absolute;
-    top:0% !important ;
+    top:-0.3% !important ;
     left: 63% !important;
 }
 
@@ -1996,7 +1996,7 @@ select {
                 @media screen and (max-width: 517px) {
                     .img-box4{
                         position:absolute;
-                        top:-4% !important ;
+                        top:-2% !important ;
                         left: 69% !important;
                     }
 
@@ -2004,12 +2004,12 @@ select {
                 @media screen and (max-width: 480px) {
                     .img-box4{
                         position:absolute;
-                        top:-4% !important ;
+                        top:-2% !important ;
                         left: 65% !important;
                     }
                     .img-box6{
                         position:absolute;
-                        top:-1% !important;
+                        top: -0.9% !important;
                         left:  65% !important;
                     }
                  
@@ -2018,12 +2018,12 @@ select {
                 @media screen and (max-width: 430px) {
                     .img-box4{
                         position:absolute;
-                        top:-4% !important ;
+                        top:-2% !important ;
                         left: 62% !important;
                     }
                     .img-box6{
                         position:absolute;
-                        top:-1% !important;
+                        top:-0.9% !important;
                         left:  60% !important;
                     }
 
@@ -2031,12 +2031,12 @@ select {
                 @media screen and (max-width: 371px) {
                     .img-box4{
                         position:absolute;
-                        top:-4% !important ;
+                        top:-2% !important ;
                         left: 58% !important;
                     }
                     .img-box6{
                         position:absolute;
-                        top:-1% !important;
+                        top: 0.2% !important;
                         left:  55% !important;
                     }
 
@@ -2044,7 +2044,7 @@ select {
                 @media screen and (max-width: 371px) {
                     .img-box4{
                         position:absolute;
-                        top:-4% !important ;
+                        top:-2% !important ;
                         left: 54% !important;
                     }
 
@@ -2112,12 +2112,12 @@ select {
 }
 .img-box4{
     position:absolute;
-    top:-3% ;
+    top:-2% ;
     left: 50%;
 }
 .img-box5{
     position:absolute;
-    top:-1% ;
+    top: 0.5% !important;
     left: 50% !important;
 }
 
@@ -2143,21 +2143,21 @@ select {
 }
 .img-box6{
     position:absolute;
-    top:-1% !important;
+    top:0.2% !important;
     left:  50% !important;
 }
 }
 @media screen and (max-width: 300px) {
     .img-box6{
         position:absolute;
-        top:-1% !important;
+        top:0.3% !important;
         left:  50% !important;
     }
-    .logo-2-aaua{
+    /* .logo-2-aaua{
         width: 7rem;
         height: 6rem;
         border-radius: 10px;
-    }
+    } */
     .about-us-cards{
         margin-left: 1rem;
         margin-right: 1rem;
@@ -2560,7 +2560,7 @@ thead{
 }
 .img-box4{
     position:absolute;
-    top:-3% ;
+    top:-2% ;
     left: 70%;
 }
 .img-box6{
@@ -2596,7 +2596,7 @@ thead{
     }
     .img-box4{
         position:absolute;
-        top:-3% ;
+        top:-2% ;
         left: 65%;
     }
     .table-text2{
@@ -2627,7 +2627,7 @@ thead{
 }
 .img-box4{
     position:absolute;
-    top:-3% ;
+    top:-2% ;
     left: 67%;
 }
 }
