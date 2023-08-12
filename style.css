@@ -163,8 +163,8 @@ section.A{
 }
 .img-box{
     position:absolute;
-    top:-7% ;
-    left: 82%;
+    top:-4% ;
+    left: 78%;
 }
 [aria-controls="offcanvasExample"] {
     /* Your CSS styles for the element go here */
@@ -196,18 +196,18 @@ section.A{
 }
 .img-box4{
     position:absolute;
-    top:-9% ;
-    left: 80%;
+    top:-3% ;
+    left: 78%;
 }
 .img-box5{
     position:absolute;
-    top:-3% ;
-    left: 80%;
+    top:-1% ;
+    left: 77%;
 }
 .img-box6{
     position:absolute;
-    top:-8% ;
-    left: 80%;
+    top:-2% ;
+    left: 76%;
 }
 .event-main-body{
     margin-top: 140px;
@@ -218,8 +218,8 @@ section.A{
     border-radius: 10px;
 }
 .logo-2-aaua{
-    width: 13rem;
-    height: 12rem;
+    width: 15rem;
+    height: 9rem;
     border-radius: 10px;
 }
 
@@ -1836,6 +1836,11 @@ select {
     .event-main-body{
         margin-top: 100px;
     }
+    .img-box2{
+        position:absolute;
+        top:-3% ;
+        left: 0%;
+    }
     .img-box6{
         position:absolute;
         top:-1% !important;
@@ -1875,8 +1880,8 @@ select {
     border-radius: 10px;
 }
 .logo-2-aaua{
-    width: 9rem;
-    height: 6rem;
+    width: 8rem;
+    height: 4rem;
     border-radius: 10px;
 }
 .img-box{
@@ -2550,30 +2555,30 @@ thead{
     }
 .img-box{
     position:absolute;
-    top:-7% ;
+    top:-4% ;
     left: 72%;
 }
 .img-box4{
     position:absolute;
-    top:-9% ;
-    left: 76%;
+    top:-3% ;
+    left: 70%;
 }
 .img-box6{
     position:absolute;
-    top:-7% ;
-    left: 77%;
+    top:-2% ;
+    left: 73%;
 }
 .img-box5{
     position:absolute;
-    top:-3% ;
-    left: 73%;
+    top:-1% ;
+    left: 71%;
 }
 }
 @media screen and (max-width: 920px) {
 .img-box6{
     position:absolute;
-    top:-5% ;
-    left: 65%;
+    top:-2% ;
+    left: 63%;
 }
 .call-for-abstract-main{
     padding-left: 3vw;
@@ -2586,13 +2591,13 @@ thead{
 @media screen and (max-width: 858px) {
     .img-box{
         position:absolute;
-        top:-7% ;
+        top:-4% ;
         left: 67%;
     }
     .img-box4{
         position:absolute;
-        top:-9% ;
-        left: 72%;
+        top:-3% ;
+        left: 65%;
     }
     .table-text2{
         
@@ -2616,13 +2621,13 @@ thead{
       }
 .img-box{
     position:absolute;
-    top:-7% ;
+    top:-4% ;
     left: 65%;
 
 }
 .img-box4{
     position:absolute;
-    top:-9% ;
+    top:-3% ;
     left: 67%;
 }
 }
