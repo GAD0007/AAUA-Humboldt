@@ -1561,6 +1561,12 @@ textarea.form-control:focus {
     border: 1px solid #D8D8D8
     
 }
+.end-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    line-height: 15px;
+    font-weight: 300;
+}
 
 select {
     appearance: none;
