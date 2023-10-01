@@ -4,6 +4,9 @@ body{
     overflow-x: hidden;
     background-color: rgb(192, 188, 188);
 }
+.new-banner{
+    max-height: 600px;
+}
 .AAUA-NAME{
     height: 50px;
     font-size: large;
@@ -2280,6 +2283,9 @@ thead{
 }
 
 @media screen and (max-width: 766px) {
+    .new-banner{
+        max-height: 600px;
+    }
     
     .call-for-abstract-main{
         padding-left: 3vw;
